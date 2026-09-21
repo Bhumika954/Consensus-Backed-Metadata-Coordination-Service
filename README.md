@@ -4,6 +4,9 @@ This project is a minimal, production-style implementation of a Raft-backed meta
 
 The core goal is to model how a FAANG-grade metadata / coordination service (think etcd/ZooKeeper) would be structured, but with enough constraints that a single engineer can implement, reason about, and demo it.
 
+
+https://consensus-backed-metadata-coordination.onrender.com/
+
 ---
 
 ## What the system is
